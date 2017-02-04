@@ -7,3 +7,4 @@
 ```shell
 yarn start
 ```
+* Webpack dev server is running in [http://localhost:3000](http://localhost:3000)
